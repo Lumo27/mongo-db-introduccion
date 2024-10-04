@@ -13,6 +13,17 @@ __Campos(columna):__ Conjuntos de datos que corresponden a un _mismo tipo_.
 __Registros(fila):__ Conjunto de datos que guardan _relacion entre si_.
 __Datos(Celda):__ Minima porcion de informacion.
 
+
+### SQL 
+* DDL (Data definition language)
+    *Create : crea una base / tablas / usuarios
+    *Drop: eliminar
+    *Alter: modificar tablas
+*DML (Data Manipulation language)
+    * _Insert:_ Inserta datos
+    *_Update:_ Actualiza datos
+    *_Delete:_ Elimina datos
+    *_Select:_ Selecciona datos
 * Tabla de colores
     | id | color |
     |-|-|
