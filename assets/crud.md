@@ -8,5 +8,8 @@ instruccion que indica que podemos agregar nuevos registros o a las tablas/colec
     SET name = "Teclado",
     price = 8999.99
     -- insecion multiple
-    INSERT INTO products (name,price) VALUES 
+    INSERT INTO products (name,price, stock) VALUES 
+    ('Monitor',240.000,30),
+    ('Teclado',90.000,24),
+    ('Auriculares',120.000,20),
     ```
