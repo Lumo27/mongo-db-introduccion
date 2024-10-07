@@ -1,7 +1,7 @@
 ## CREATE
 
 instruccion que indica que podemos agregar nuevos registros o a las tablas/colecciones de nuestra BD
-*__MYSQL__:
+* __MYSQL__:
     ```sql
     -- insercion simple
     INSERT INTRO products 
